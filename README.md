@@ -1,8 +1,7 @@
 # Priority_Queue
 CSC 300 Data Structures // C++ program using Selection Sort to maintain a Priority Queue
 
-## Overview:
-
+## Overview: Program consisting of 2 assignments ( Priority Queue, Selection Sort )
 
 #### Assignment 1: 
 Implement a priority queue that stores integers and gives highest priority to those
